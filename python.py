@@ -285,5 +285,7 @@ print("id shad = @Login111")
 time.sleep(0.5)
 print(" ")
 print("my'love , zahra🙂♥️")
+print(" ")
+print("by by✔")
 #my'love , zahra🙂♥️
 #mr dark
