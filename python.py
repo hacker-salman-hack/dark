@@ -5,16 +5,15 @@ os.system("pip install pyfiglet")
 os.system("pip install colorama")
 print('\033[94m')
 print(pyfiglet.figlet_format("PASORD "))
-mrhacker = input("\033[32mINTER PASORD_>>\033[31m")
-while mrhacker != 'dark' :
+mrdark = input("\033[32mINTER PASORD_>>\033[31m")
+while mrdark != 'dark' :
 	print("\033[31mPSORD ESHTBA\033[32m",mrhacker)
-	mrhacker = input("INTER PASORD_>>\033[31m")
+	mrdark = input("INTER PASORD_>>\033[31m")
 #Mr-dark
 #import
 import os
 import time
 import sys
-import datetime
 import requests
 
 
@@ -26,12 +25,6 @@ pink='\033[35m'  #بنفش
 rang='\033[34m' #ابی تیره
 yellow='/033[93m'  #زرد
 
-#dat
-dat = (datetime.datetime.today())
-yellow,green="\033[93m","\033[92m"
-
-
-#print_mohamad.herorist
 print(f"{green} ")
 banner = (f"""  salman hacker""")
 for bnr in banner:
